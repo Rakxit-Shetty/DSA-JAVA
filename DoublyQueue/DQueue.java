@@ -1,7 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-
 class myDqueue{
     int[] a=new int[5];
     Scanner sc=new Scanner(System.in);
