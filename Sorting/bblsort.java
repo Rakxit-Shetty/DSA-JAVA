@@ -1,4 +1,5 @@
 public class bblsort{
+    //BBl sort
 public static void main(String args[]){
     int a[]={1,3,5,7,2};
     int n=a.length;

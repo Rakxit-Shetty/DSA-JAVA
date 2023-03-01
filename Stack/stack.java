@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-
+//Stack
 class mystack{
          
         public int top;
