@@ -17,6 +17,6 @@ public static void main(String args[]){
     for (int i : a)
     System.out.print(i);
 
-    
+     
  }
 }
