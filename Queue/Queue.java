@@ -10,9 +10,8 @@ class myQueue{
         rear=front=-1;
         //front=-1;
     }
-
     void enqueue(){
-        
+    
         System.out.println("Enter the element");
         if(front==-1)
         front=0;
