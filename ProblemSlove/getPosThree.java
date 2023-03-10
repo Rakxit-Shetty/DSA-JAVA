@@ -3,7 +3,7 @@ import java.util.*;
 public class getPosThree{
     public static void main(String args[]){
         int a[]={-3,4,5,8,9,2,1,-6,6};
-        int n=a.length;//count=0;
+        int n=a.length; //count=0;
         ArrayList<Integer> b=new ArrayList<Integer>();
        
         for(int i=0;i<n;i++){
