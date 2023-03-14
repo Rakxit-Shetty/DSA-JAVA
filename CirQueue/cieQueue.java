@@ -259,7 +259,6 @@ public static void main(String[] args)
 	}
 
 	q.displayQueue();
-	
 	q.enQueue(9);
 	q.enQueue(20);
 	q.enQueue(5);
