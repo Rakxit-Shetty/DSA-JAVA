@@ -257,7 +257,6 @@ public static void main(String[] args)
 		System.out.print("Deleted value = ");
 		System.out.println(x);
 	}
-
 	q.displayQueue();
 	q.enQueue(9);
 	q.enQueue(20);
