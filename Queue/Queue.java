@@ -66,7 +66,6 @@ public class Queue{
         while(run==1){
             System.out.println("1.enqueue\n 2.dequeue\n 3.Display\n Enter your choice:");
             choice=sc.nextInt();
-
             switch(choice){
                 case 1: 
                 my.enqueue(); break;
