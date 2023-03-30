@@ -7,8 +7,8 @@ class myQueue{
     ArrayList<Integer> a=new  ArrayList<>();
 
     myQueue(){
-        rear=-1;
-        front=-1;
+        rear=front=-1;
+        //front=-1;
     }
 
     void enqueue(){
