@@ -77,7 +77,7 @@ public class Queue{
                 my.display(); break;
             }
 
-            System.out.println("do you want to continue?: press 1 to cntnu");
+            System.out.println("do you want to continue ?: press 1 to cntnu");
             run=sc.nextInt();
 
         }
