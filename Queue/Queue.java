@@ -8,7 +8,7 @@ class myQueue{
 
     myQueue(){
         rear=front=-1;
-        //front=-1;
+        //front=-1; 
     }
     void enqueue(){
     
