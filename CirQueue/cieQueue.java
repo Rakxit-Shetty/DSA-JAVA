@@ -70,8 +70,8 @@ class myCirQueue{
 }
 */
 //Start
-// Java program for insertion and
-// deletion in Circular Queue
+
+// Java program for insertion and deletion in Circular Queue
 import java.util.ArrayList;
 
 class CircularQueue
