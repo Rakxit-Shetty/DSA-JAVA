@@ -1,7 +1,7 @@
 public class insSort{
 
     public static void main(String args[]){
-        int a[]={2,3,1,5,8,7,90,55};
+        int a[]={2,3,1,5,8,7,9,55};
         int cur,n=a.length;
 
         for(int i=1;i<n;i++){
